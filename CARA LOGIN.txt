@@ -1,0 +1,7 @@
+LOGIN MENGGUNAKAN EMAIL
+email : rayhan@gmail.com
+password : 123
+
+Jika ingin menambah user baru register terlebih dahulu, dan jika sudah register
+klik login pada bagian sudah punya akun, dan kembali menggunakan email dan password
+yang sudah dibuat
